@@ -1,4 +1,8 @@
 # MuCDN
+
+* Code for [COLING 2022](https://coling2022.org) accepted paper titled "MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations"
+* Weixiang Zhao, Yanyan Zhao, Bing Qin.
+
 ## Requirements
 * Python 3.7
 * PyTorch 1.8.2
