@@ -15,6 +15,8 @@
 You can download the preprocessed features including dataset, extracted utterance feature and dialogue discourse structure we used from:
 https://pan.baidu.com/s/1gMIyK4mXVSvis1f1_DSQsQ  提取码:j84f
 
+or from: https://drive.google.com/drive/folders/1-VzZjNmdZMO9rzzQD-JOt46w53fsBwJc?usp=sharing
+
 and place them into the corresponding folds like emorynlp and meld
 
 ## Training
