@@ -11,6 +11,15 @@
 
 ## Preparation
 
+## Discourse Parsing 
+We use a powerful dialogue discourse parser to obtain the structure for the explicit detachment.
+
+Details for training the parser could be found in https://github.com/shizhouxing/DialogueDiscourseParsing. We have already processed the ERC data in the same formmat with the input of the paser, which is in the folder of erc_data.
+
+With the trained parser, run main_inference.py to get the parsed ERC data. 
+
+You can also direcly use the preprocessed features in the following.
+
 ### Preprocessed Features
 You can download the preprocessed features including dataset, extracted utterance feature and dialogue discourse structure we used from:
 https://pan.baidu.com/s/1gMIyK4mXVSvis1f1_DSQsQ  提取码:j84f
